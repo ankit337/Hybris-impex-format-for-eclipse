@@ -1,4 +1,6 @@
-test1
+Hybris impex format for eclipse
 =====
 
-This is just test purpose 
+- Download Hybris.jar from eclipse_jar.zip
+- Put the Hybris.jar in Eclipse/plugins
+- Restart you eclipse/springIDE
