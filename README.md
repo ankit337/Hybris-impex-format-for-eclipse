@@ -1,6 +1,6 @@
 Hybris impex format for eclipse
 =====
 
-- Download Hybris.jar from eclipse_jar.zip
-- Put the Hybris.jar in Eclipse/plugins
+- Download eclipse_jar.zip from this repository
+- Find the Hybris.jar from eclipse_jar.zip and put it in Eclipse/plugins
 - Restart you eclipse/springIDE
